@@ -26,7 +26,7 @@ jobs:
 
     # Compile the Java program
     - name: Compile Java program
-      run: javac Main.java
+      run: javac Main.java RecipeLineProcessor.java
 
     # Run the Java program and capture the output
     - name: Run Java program
