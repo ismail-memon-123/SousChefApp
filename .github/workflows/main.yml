@@ -31,10 +31,6 @@ jobs:
     # Run the Java program and capture the output
     - name: Run Java program
       run: java -cp out cs5279_recipe_parser.Main > program_output.txt
-
-    # Compare the output with the expected output file
-    - name: Compare output
-      run: diff -q program_output.txt src/cs5279_recipe_parser/expected_output.txt
     
     # Always save the program output as an artifact, even if the diff fails
     - name: Upload program output
@@ -42,6 +38,10 @@ jobs:
       with:
         name: program-output
         path: program_output.txt
+    # Compare the output with the expected output file
+    - name: Compare output
+      run: diff -q program_output.txt src/cs5279_recipe_parser/expected_output.txt
+
 
   build_python:
     # If the output matches, the test passes
@@ -64,5 +64,6 @@ jobs:
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
-      run: |
-        pytest
+      env:
+        PYTHONPATH: src_python  # Add src_python to PYTHONPATH
+      run: pytest
