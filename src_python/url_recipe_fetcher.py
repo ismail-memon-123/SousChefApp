@@ -30,3 +30,8 @@ class URLFetcher:
         recipe['instructions'] = [instruction.get_text(strip=True) for instruction in instructions]
         
         return recipe
+
+
+url = 'https://ashishbhatia3.wordpress.com/2015/01/21/dhabe-ka-gosht-highway-lamb-curry/amp/'
+recipe = URLFetcher.scrape_recipe(url)
+print(recipe["instructions"])

@@ -53,17 +53,16 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: "3.11"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install flake8 pytest
-    - name: Lint with flake8
-      run: |
-        # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Test with pytest
-      env:
-        PYTHONPATH: ${{ github.workspace }}/src_python  # Add absolute src_python to PYTHONPATH
-      run: pytest
+    # Run the Python program and save its output to `python_output.txt`
+    - name: Run Python program
+      run: python src_python/url_recipe_fetcher.py > python_output.txt
+
+    # Always save the Python program output as an artifact
+    - name: Upload Python program output
+      uses: actions/upload-artifact@v3
+      with:
+        name: python-program-output
+        path: python_output.txt
+    # Compare the Python program output with an expected output file
+    - name: Compare Python output
+      run: diff -q python_output.txt src_python/expected_python_output.txt
