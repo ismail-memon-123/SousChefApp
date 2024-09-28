@@ -1,0 +1,38 @@
+name: Java CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Check out the repository code
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    # Set up JDK 11 (or any other version you need)
+    - name: Set up JDK
+      uses: actions/setup-java@v3
+      with:
+        java-version: '17'
+
+    # Compile the Java program
+    - name: Compile Java program
+      run: javac Main.java
+
+    # Run the Java program and capture the output
+    - name: Run Java program
+      run: java -cp src/main/java Main > program_output.txt
+
+    # Compare the output with the expected output file
+    - name: Compare output
+      run: diff -q program_output.txt expected_output.txt
+
+    # If the output matches, the test passes
