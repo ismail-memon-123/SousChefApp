@@ -30,7 +30,7 @@ jobs:
 
     # Run the Java program and capture the output
     - name: Run Java program
-      run: java Main > program_output.txt
+      run: java cs5279_recipe_parser.Main > program_output.txt
 
     # Compare the output with the expected output file
     - name: Compare output
