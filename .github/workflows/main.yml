@@ -26,11 +26,11 @@ jobs:
 
     # Compile the Java program
     - name: Compile Java program
-      run: javac Main.java RecipeLineProcessor.java
+      run: javac src/cs5279_recipe_parser/Main.java src/cs5279_recipe_parser/RecipeLineProcessor.java
 
     # Run the Java program and capture the output
     - name: Run Java program
-      run: java Main > program_output.txt
+      run: java cs5279_recipe_parser.Main > program_output.txt
 
     # Compare the output with the expected output file
     - name: Compare output
