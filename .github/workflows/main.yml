@@ -34,6 +34,6 @@ jobs:
 
     # Compare the output with the expected output file
     - name: Compare output
-      run: diff -q program_output.txt expected_output.txt
+      run: diff -q program_output.txt src/cs5279_recipe_parser/expected_output.txt
 
     # If the output matches, the test passes
