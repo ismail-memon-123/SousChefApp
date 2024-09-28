@@ -6,6 +6,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class URLFetcher:
+    @staticmethod
     def scrape_recipe(url):
         response = requests.get(url, verify=False)
         soup = BeautifulSoup(response.text, 'html.parser')

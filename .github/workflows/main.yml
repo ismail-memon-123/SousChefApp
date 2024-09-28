@@ -35,6 +35,13 @@ jobs:
     # Compare the output with the expected output file
     - name: Compare output
       run: diff -q program_output.txt src/cs5279_recipe_parser/expected_output.txt
+    
+    # Always save the program output as an artifact, even if the diff fails
+    - name: Upload program output
+      uses: actions/upload-artifact@v3
+      with:
+        name: program-output
+        path: program_output.txt
 
   build_python:
     # If the output matches, the test passes
