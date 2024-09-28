@@ -1,0 +1,417 @@
+Starting process.
+
+Step 1: 1.0 m
+Ingredient: onion at index: 1553, Ingredient: sea salt at index: 2011, 
+Step 2:
+Ingredient: salt at index: 1959, 
+Step 3:
+
+Step 4: 2.0 h
+Ingredient: chicken at index: 458, 
+Step 5: 2.0 m
+Ingredient: chicken at index: 458, Ingredient: fish sauce at index: 838, 
+Step 6:
+
+Step 7:
+
+Step 8:
+Ingredient: oil at index: 1545, 
+Step 9: 10.0 s
+Ingredient: garlic at index: 937, 
+Step 10: 1.0 m
+Ingredient: onion at index: 1553, 
+Step 11: 2.0 m
+Ingredient: chicken at index: 458, Ingredient: fish sauce at index: 838, 
+Step 12: 1.0 m
+Ingredient: green onion at index: 1013, 
+Step 13:
+Ingredient: basil at index: 154, 
+Step 14: 1.0 m 1.0 m
+Ingredient: garlic at index: 937, 
+Step 15: 1.0 m 1.0 m
+Ingredient: garlic at index: 937, 
+Step 16:
+
+Step 17:
+Ingredient: sugar at index: 2152, Ingredient: butter at index: 331, Ingredient: eggs at index: 768, Ingredient: baking powder at index: 119, Ingredient: salt at index: 1959, Ingredient: butter at index: 331, 
+Step 18:
+Ingredient: plums at index: 1736, 
+Step 19: 50.0 m
+
+Step 20: 1.0 h 1.0 m
+
+Step 21:
+
+Step 22:
+
+Step 23: 4.0 h 8.0 h
+
+Step 24:
+Ingredient: oats at index: 1540, 
+Step 25:
+Ingredient: oats at index: 1540, Ingredient: oats at index: 1540, 
+Step 26:
+Ingredient: oats at index: 1540, 
+Step 27:
+Ingredient: oatmeal at index: 1539, 
+Step 28: 2.0 m
+
+Step 29:
+
+Step 30:
+
+Step 31:
+
+Step 32:
+Ingredient: milk at index: 1449, Ingredient: oil at index: 1545, Ingredient: egg at index: 763, 
+Step 33:
+
+Step 34: 25.0 m
+
+Step 35:
+
+Step 36:
+Ingredient: spinach at index: 2123, Ingredient: mushrooms at index: 1494, Ingredient: green onions at index: 1014, 
+Step 37: 5.0 m
+
+Step 38:
+
+Step 39:
+
+Step 40: 2.0 m
+
+Step 41:
+
+Step 42:
+Ingredient: egg at index: 763, Ingredient: egg at index: 763, 
+Step 43:
+
+Step 44:
+Ingredient: egg at index: 763, Ingredient: egg at index: 763, 
+Step 45:
+Ingredient: egg at index: 763, 
+Step 46:
+
+Step 47:
+Ingredient: olive oil at index: 1549, Ingredient: ground beef at index: 1026, Ingredient: ground beef at index: 1026, 
+Step 48:
+
+Step 49:
+Ingredient: onion at index: 1553, Ingredient: garlic at index: 937, 
+Step 50:
+Ingredient: beef at index: 169, Ingredient: onion at index: 1553, Ingredient: garlic at index: 937, Ingredient: beef at index: 169, 
+Step 51:
+Ingredient: onion at index: 1553, Ingredient: garlic at index: 937, Ingredient: onion at index: 1553, 
+Step 52:
+
+Step 53:
+Ingredient: onion at index: 1553, Ingredient: garlic at index: 937, Ingredient: zucchini at index: 2482, Ingredient: carrots at index: 387, 
+Step 54:
+Ingredient: cheese at index: 441, 
+Step 55:
+Ingredient: zucchini at index: 2482, Ingredient: carrots at index: 387, Ingredient: basil at index: 154, Ingredient: oregano at index: 1562, 
+Step 56:
+Ingredient: pepper at index: 1652, Ingredient: salt at index: 1959, Ingredient: red pepper at index: 1879, 
+Step 57:
+
+Step 58:
+Ingredient: pasta at index: 1616, Ingredient: spaghetti at index: 2114, 
+Step 59:
+Ingredient: spaghetti at index: 2114, 
+Step 60:
+Ingredient: pasta at index: 1616, Ingredient: pasta at index: 1616, 
+Step 61:
+
+Step 62:
+Ingredient: pasta at index: 1616, 
+Step 63:
+Ingredient: olive oil at index: 1549, Ingredient: butter at index: 331, 
+Step 64: 1.0 m
+Ingredient: garlic at index: 937, 
+Step 65: 1.0 m
+
+Step 66:
+Ingredient: chicken at index: 458, Ingredient: milk at index: 1449, 
+Step 67: 1.0 m
+
+Step 68:
+Ingredient: parmesan cheese at index: 1608, Ingredient: salt at index: 1959, Ingredient: pepper at index: 1652, Ingredient: cheese at index: 441, 
+Step 69:
+Ingredient: pasta at index: 1616, 
+Step 70:
+Ingredient: fresh parsley at index: 891, Ingredient: parmesan at index: 1607, 
+Step 71:
+Ingredient: baking powder at index: 119, Ingredient: sugar at index: 2152, Ingredient: salt at index: 1959, 
+Step 72:
+
+Step 73:
+Ingredient: egg at index: 763, 
+Step 74:
+Ingredient: milk at index: 1449, Ingredient: oil at index: 1545, Ingredient: vanilla at index: 2353, 
+Step 75:
+
+Step 76:
+
+Step 77:
+
+Step 78:
+
+Step 79:
+
+Step 80:
+
+Step 81:
+
+Step 82:
+
+Step 83:
+Ingredient: rice at index: 1894, 
+Step 84:
+Ingredient: rice at index: 1894, 
+Step 85:
+Ingredient: oil at index: 1545, 
+Step 86:
+Ingredient: onion at index: 1553, Ingredient: green chilies at index: 1005, Ingredient: onion at index: 1553, 
+Step 87: 1.0 m
+Ingredient: ginger at index: 949, Ingredient: garlic at index: 937, 
+Step 88:
+
+Step 89:
+Ingredient: beef at index: 169, Ingredient: beef at index: 169, 
+Step 90:
+Ingredient: tomatoes at index: 2302, Ingredient: plums at index: 1736, 
+Step 91: 14.0 m
+
+Step 92: 3.0 m
+Ingredient: potatoes at index: 1781, Ingredient: potatoes at index: 1781, 
+Step 93:
+Ingredient: potatoes at index: 1781, Ingredient: oil at index: 1545, 
+Step 94:
+Ingredient: plums at index: 1736, Ingredient: lemon at index: 1316, 
+Step 95:
+Ingredient: rice at index: 1894, Ingredient: cilantro at index: 512, Ingredient: mint at index: 1455, Ingredient: rice at index: 1894, 
+Step 96:
+Ingredient: yogurt at index: 2467, 
+Step 97: 25.0 m
+
+Step 98: 4.0 m
+Ingredient: coriander seeds at index: 564, Ingredient: cumin seeds at index: 627, Ingredient: carom seeds at index: 384, Ingredient: pomegranate seeds at index: 1746, 
+Step 99:
+Ingredient: coriander seeds at index: 564, Ingredient: cumin seeds at index: 627, Ingredient: carom seeds at index: 384, 
+Step 100: 5.0 m
+Ingredient: corn flour at index: 568, Ingredient: chickpea flour at index: 470, 
+Step 101:
+Ingredient: gram flour at index: 982, 
+Step 102:
+Ingredient: ground beef at index: 1026, Ingredient: coriander at index: 561, Ingredient: corn flour at index: 568, Ingredient: red onion at index: 1876, Ingredient: green onion at index: 1013, Ingredient: green chili at index: 1004, Ingredient: pepper at index: 1652, Ingredient: cilantro at index: 512, Ingredient: garlic at index: 937, Ingredient: ginger at index: 949, Ingredient: chili flakes at index: 477, Ingredient: red chili powder at index: 1870, Ingredient: black pepper at index: 239, Ingredient: salt at index: 1959, Ingredient: egg at index: 763, Ingredient: tomatoes at index: 2302, 
+Step 103:
+
+Step 104: 4.0 m 3.0 m 24.0 h
+Ingredient: green chili at index: 1004, 
+Step 105:
+
+Step 106:
+Ingredient: oil at index: 1545, 
+Step 107:
+Ingredient: beef at index: 169, Ingredient: salt at index: 1959, 
+Step 108:
+
+Step 109:
+
+Step 110:
+
+Step 111: 2.0 m
+Ingredient: oil at index: 1545, 
+Step 112:
+Ingredient: corn flour at index: 568, Ingredient: gram flour at index: 982, Ingredient: oil at index: 1545, 
+Step 113: 0.5 m
+
+Step 114: 0.75 m
+
+Step 115: 0.25 h
+
+Step 116: 0.5 m
+
+Step 117: 0.5 m
+
+Step 118: 0.25 m
+
+Step 119: 0.75 m
+
+Step 120: 1.0 m
+
+Step 121: 3.0 m
+
+Step 122: 333.0 m
+
+Step 123: 3333.0 m
+
+Step 124: 4.0 m
+
+Step 125: 5.0 m
+
+Step 126: 6.0 m
+
+Step 127: 15.0 h
+
+Step 128: 9.0 h
+
+Step 129: 4.0 h
+Ingredient: garlic at index: 937, 
+Step 130: 0.5 h
+
+Step 131: 0.25 h
+
+Step 132: 0.75 m
+
+Step 133: 6.0 m
+
+Step 134: 3.0 m
+Ingredient: oil at index: 1545, Ingredient: ginger at index: 949, Ingredient: garlic at index: 937, Ingredient: red curry paste at index: 1872, 
+Step 135:
+Ingredient: fish sauce at index: 838, Ingredient: coconut milk at index: 539, Ingredient: lime at index: 1339, Ingredient: brown sugar at index: 305, Ingredient: red pepper flakes at index: 1880, Ingredient: salt at index: 1959, 
+Step 136: 8.0 m
+Ingredient: chicken at index: 458, 
+Step 137: 5.0 m
+Ingredient: bell pepper at index: 193, Ingredient: green beans at index: 1001, 
+Step 138:
+Ingredient: basil at index: 154, Ingredient: cilantro at index: 512, Ingredient: cornstarch at index: 578, 
+Step 139:
+Ingredient: rice at index: 1894, 
+Step 140:
+Ingredient: rice flour at index: 1899, Ingredient: salt at index: 1959, 
+Step 141: 5.0 m
+Ingredient: rice flour at index: 1899, 
+Step 142:
+
+Step 143:
+Ingredient: rice cakes at index: 1896, Ingredient: sesame oil at index: 2023, 
+Step 144: 10.0 m
+Ingredient: rice cakes at index: 1896, 
+Step 145:
+Ingredient: rice cakes at index: 1896, 
+Step 146:
+
+Step 147:
+Ingredient: unsalted butter at index: 2347, Ingredient: garlic at index: 937, 
+Step 148:
+Ingredient: gochujang at index: 965, Ingredient: gochujang at index: 965, 
+Step 149:
+Ingredient: sugar at index: 2152, Ingredient: gochujang at index: 965, Ingredient: sugar at index: 2152, 
+Step 150:
+Ingredient: parmesan at index: 1607, Ingredient: heavy cream at index: 1080, 
+Step 151: 3.0 m
+Ingredient: salt at index: 1959, 
+Step 152:
+
+Step 153:
+Ingredient: croissant at index: 616, 
+Step 154:
+Ingredient: croissant at index: 616, 
+Step 155:
+Ingredient: bacon at index: 113, Ingredient: cheddar at index: 438, 
+Step 156:
+Ingredient: cheddar cheese at index: 439, Ingredient: croissants at index: 617, 
+Step 157:
+Ingredient: beef at index: 169, Ingredient: bacon at index: 113, Ingredient: cheese at index: 441, 
+Step 158:
+Ingredient: egg at index: 763, Ingredient: croissant at index: 616, Ingredient: bacon at index: 113, Ingredient: cheese at index: 441, 
+Step 159:
+Ingredient: salt at index: 1959, Ingredient: black pepper at index: 239, 
+Step 160:
+Ingredient: cheese at index: 441, 
+Step 161: 20.0 m
+Ingredient: croissants at index: 617, Ingredient: eggs at index: 768, Ingredient: croissants at index: 617, 
+Step 162:
+Ingredient: tomato at index: 2299, Ingredient: basil at index: 154, Ingredient: feta at index: 822, 
+Step 163:
+Ingredient: eggs at index: 768, Ingredient: salt at index: 1959, Ingredient: black pepper at index: 239, Ingredient: italian seasoning at index: 1130, 
+Step 164:
+Ingredient: grape tomatoes at index: 990, Ingredient: basil at index: 154, Ingredient: feta cheese at index: 823, Ingredient: egg at index: 763, 
+Step 165:
+Ingredient: croissants at index: 617, 
+Step 166: 20.0 m
+Ingredient: croissants at index: 617, Ingredient: eggs at index: 768, Ingredient: croissants at index: 617, 
+Step 167:
+
+Step 168:
+Ingredient: croissant at index: 616, Ingredient: egg at index: 763, 
+Step 169:
+Ingredient: croissant at index: 616, Ingredient: egg at index: 763, 
+Step 170:
+Ingredient: brown sugar at index: 305, 
+Step 171:
+Ingredient: sugar at index: 2152, 
+Step 172:
+Ingredient: sugar at index: 2152, Ingredient: vanilla bean at index: 2354, Ingredient: vanilla at index: 2353, Ingredient: syrup at index: 2189, 
+Step 173: 10.0 m
+
+Step 174:
+Ingredient: syrup at index: 2189, 
+Step 175:
+
+Step 176:
+Ingredient: pumpkin at index: 1810, 
+Step 177:
+Ingredient: pumpkin at index: 1810, Ingredient: maple syrup at index: 1404, Ingredient: brown sugar at index: 305, Ingredient: sugar at index: 2152, 
+Step 178:
+Ingredient: pumpkin at index: 1810, Ingredient: cinnamon at index: 514, 
+Step 179:
+
+Step 180:
+Ingredient: chocolate at index: 496, 
+Step 181:
+Ingredient: cream at index: 601, Ingredient: butter at index: 331, 
+Step 182:
+Ingredient: egg at index: 763, Ingredient: vanilla extract at index: 2355, 
+Step 183:
+Ingredient: cocoa powder at index: 529, Ingredient: cornstarch at index: 578, Ingredient: baking soda at index: 120, Ingredient: salt at index: 1959, 
+Step 184:
+
+Step 185:
+Ingredient: milk chocolate at index: 1450, 
+Step 186:
+Ingredient: graham cracker at index: 981, 
+Step 187:
+Ingredient: graham cracker at index: 981, Ingredient: salt at index: 1959, Ingredient: butter at index: 331, Ingredient: brown sugar at index: 305, Ingredient: vanilla extract at index: 2355, 
+Step 188:
+
+Step 189:
+
+Step 190:
+Ingredient: unsalted butter at index: 2347, 
+Step 191: 10.0 m
+Ingredient: chocolate chips at index: 497, Ingredient: butter at index: 331, 
+Step 192:
+Ingredient: cocoa powder at index: 529, 
+Step 193:
+Ingredient: egg at index: 763, Ingredient: brown sugar at index: 305, 
+Step 194:
+Ingredient: chocolate at index: 496, Ingredient: butter at index: 331, Ingredient: salt at index: 1959, 
+Step 195:
+
+Step 196: 15.0 m
+
+Step 197:
+
+Step 198:
+
+Step 199:
+Ingredient: chocolate at index: 496, 
+Step 200:
+Ingredient: graham cracker at index: 981, 
+Step 201:
+Ingredient: graham cracker at index: 981, 
+Step 202:
+
+Step 203:
+Ingredient: graham cracker at index: 981, 
+Step 204: 12.0 m
+
+Step 205: 10.0 m
+
+Step 206: 1.0 m
+
+Step 207: 25.0 m
+
+Processing finished.
